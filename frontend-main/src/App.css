@@ -1,0 +1,242 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  overflow-x: hidden;
+  padding-top: 50px;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.photo-up {
+  font-weight: 500;
+  position: relative;
+  right: 29rem;
+  white-space: nowrap;
+}
+
+.title {
+  margin-bottom: -1px;
+}
+
+.file {
+  margin-left: -30rem;
+  width: 29rem;
+  margin-top: 1rem;
+}
+
+.form {
+  margin-left: 7rem;
+  margin-bottom: 7rem;
+}
+
+.inputs {
+  margin-left: 30rem;
+  width: 30rem;
+}
+
+.forgetpassword {
+  font-size: larger;
+  top: 1rem;
+  right: 2rem;
+  position: relative;
+}
+
+.hero-para {
+  font-size: x-large;
+  top: 4rem;
+  position: relative;
+}
+
+.btn-shop {
+  top: 7rem;
+  position: relative;
+  right: 8rem;
+  width: 15rem;
+}
+
+.fig {
+  width: 80rem;
+  top: 5rem;
+  left: 3rem;
+}
+
+.para {
+  margin-top: 2rem;
+  margin-right: 21rem;
+}
+
+.inputfield {
+  display: flex;
+  width: 20rem;
+  height: 3rem;
+  padding: 5px;
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+  left: 2rem;
+  position: relative;
+}
+
+.sub {
+  width: 7rem;
+  margin-right: 19.5rem;
+  left: 4rem;
+  position: relative;
+}
+
+.inputs2 {
+  position: relative;
+  bottom: 1rem;
+  margin-left: 30rem;
+  width: 30rem;
+}
+
+.inputBox {
+  display: block;
+  margin-left: 30rem;
+  position: relative;
+  top: -1rem;
+  /* margin: 10px; */
+  /* margin-left: 40%; */
+  /* text-align: center; */
+  padding: 7px;
+  /* width: 960px; */
+  /* border: 1px solid skyblue; */
+  /* border-radius: 10px; */
+}
+
+.inputBox-sel {
+  display: block;
+  margin: 10px;
+  margin-left: 40%;
+  text-align: center;
+  padding: 7px;
+  width: 200px;
+  border: 1px solid skyblue;
+  border-radius: 10px;
+}
+
+
+.register,
+.product {
+  margin-left: 30%;
+  margin-top: 100px;
+}
+
+.appButton {
+
+  cursor: pointer;
+  margin: 20px;
+  padding: 9px;
+  width: 135px;
+  background-color: skyblue;
+  border: 1px solid;
+  border-radius: 15px;
+}
+
+.appButton:hover {
+  background-color: black;
+  color: white;
+}
+
+.nav-right {
+  text-align: right;
+  padding-right: 100px;
+
+}
+
+.nav-text {
+  color: black;
+}
+
+.invalid-input {
+  color: red;
+  margin-top: -10px;
+  display: block;
+  margin-left: 20px;
+  position: relative;
+  top: 1rem;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.change{
+  margin-top: -10rem;
+  margin-bottom: 2rem;
+  margin-left: 15rem;
+}
+
+.login {
+  margin-bottom: 7rem;
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  /* margin-left: 18%; */
+}
+
+.login-sign {
+  margin-top: 7%;
+  margin-left: -18%;
+}
+
+.product {
+  margin-top: 7%;
+  margin-left: -15%;
+}
+
+.button {
+  background-color: #46dfc9;
+  padding: 7px;
+  border: 2px solid black;
+  border-radius: 24px;
+}
+
+.button-wish {
+  margin-left: 70%;
+  margin-top: -7%;
+}
+
+.tableItem {
+
+  margin-top: 9%;
+  margin-left: 6%;
+  width: 85%;
+
+}
+
+.total {
+  margin-left: 35%;
+}
+
+.confirm {
+  margin-top: 9px;
+}
+
+/* .log {
+  margin-bottom: 7rem;
+  margin-top: -11rem;
+  margin-left: 18%;
+} */
+
+.reset {
+  margin-top: 9%;
+  width: 30%;
+  margin-left: 33%;
+
+}
+
+.input {
+  margin-top: 239px;
+  width: 23%;
+  margin-left: 23%;
+}

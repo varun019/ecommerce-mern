@@ -1,0 +1,41 @@
+.Photo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5px;
+  }
+  .paginationBttns {
+      width: 80%;
+      height: 40px;
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      margin-top: 15px;
+    }
+    
+    .paginationBttns a {
+      padding: 10px;
+      margin: 8px;
+      border-radius: 5px;
+      border: 1px solid #4899db;
+      color: #4899db;
+      border-radius: 15px;
+
+      cursor: pointer;
+    }
+    
+    .paginationBttns a:hover {
+      color: white;
+      background-color: #4899db;
+    }
+    
+    .paginationActive a {
+      color: white;
+      background-color: #4899db;
+    }
+    
+    .paginationDisabled a {
+      color: grey;
+      
+    }
